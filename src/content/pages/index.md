@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Home
+title: Wizz - Inicio
 seo:
   page_description:
   canonical_url:

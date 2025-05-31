@@ -49,7 +49,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: 'Sendit '
+    title: Wizz Life
     title_suffix: Features
     description: >-
       Our platform offers the most advanced features including automated email

@@ -2,25 +2,25 @@
   "logo": "/images/logo-wizz.svg",
   "items": [
     {
-      "text": "Home",
+      "text": "Inicio",
       "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Features",
+      "text": "Cómo funciona",
       "link": "/features/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Pricing",
+      "text": "Precios",
       "link": "/pricing/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "About",
+      "text": "Acerca de",
       "link": "/about/",
       "enable_dropdown": false,
       "dropdown": []
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "text": "Contact",
+      "text": "Contacto",
       "link": "/contact/",
       "enable_dropdown": false,
       "dropdown": []
@@ -53,7 +53,7 @@
   ],
   "enable_nav_btn": true,
   "nav_btn": {
-    "text": "Get Started",
+    "text": "Agendar cita",
     "link": "/signup/"
   }
 }

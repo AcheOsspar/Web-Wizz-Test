@@ -11,10 +11,11 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Sitio de Wizz
+    title: ¡Alinea tus dientes sin bracket!
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      Nuestros tratamientos de última generación permiten alinear tus dientes en
+      tiempo récord, sin brackets, sin costos por control y con flexibilidades
+      de pago
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:

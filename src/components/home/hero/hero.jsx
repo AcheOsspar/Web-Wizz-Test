@@ -29,6 +29,12 @@ export default function HomeHero(block) {
               </div>
             </div>
           </div>
+          <div className="col-lg-6">
+            <div className="hero-two-banner">
+              <img src={block.image} alt={block.image_alt} />
+              <div className="hero-two-banner-shape"></div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

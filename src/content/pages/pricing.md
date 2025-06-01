@@ -11,10 +11,10 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
+    title: Ortodoncia Invisible a Precios Accesibles
     description: >-
-      Sendit is easy to get started and we have a pricing plan for businesses of
-      all sizes.
+      La mejor opción para alinear tus dientes de forma rápida, accesible,
+      segura y **hasta en 12 meses sin interés**.
   - _bookshop_name: pricing/table
     pricing_tier:
       - tier: Básico

@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: Pricing
 seo:
   page_description:
@@ -10,12 +11,13 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
-
+    title: Ortodoncia Invisible a Precios Accesibles
+    description: >-
+      La mejor opción para alinear tus dientes de forma rápida, accesible,
+      segura y **hasta en 12 meses sin interés**.
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
+      - tier: Básico
         highlight_tier: false
         description: Everything you need to get started.
         currency_symbol: $
@@ -44,7 +46,7 @@ content_blocks:
         button:
           link: /signup
           text: Try This Free
-      - tier: Pro
+      - tier: VIP
         highlight_tier: true
         description: More collaborative power and unlimited boards for fast-growing.
         currency_symbol: $
@@ -73,7 +75,7 @@ content_blocks:
         button:
           link: /signup
           text: Try This Free
-      - tier: Business
+      - tier: Increíble
         highlight_tier: false
         description: For starters Includes unlimited members
         currency_symbol: $
@@ -102,18 +104,22 @@ content_blocks:
         button:
           link: /signup
           text: Try This Free
-
   - _bookshop_name: global/faq
     title: Have
     title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+    description: >-
+      We believe that a good email marketing strategy is the key to growth. So
+      we’re helping you grow your business with tools and resources that make
+      email marketing easy.
     FAQ:
       - title: Is there a maximum numbers of emails I can send each month?
         description: No, the prices include unlimited emails. Send to your heart's content.
       - title: Where can I find out more information?
         description: Right here on this website, or contact our support team.
       - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
+        description: >-
+          Yes, contact our support team and we'll get you set up on our
+          non-profit plan.
       - title: What forms of payment do you accept?
         description: We accept credit cards, checks, and cash.
       - title: In which currencies can I make payments?

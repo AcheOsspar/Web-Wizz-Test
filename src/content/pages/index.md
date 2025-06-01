@@ -16,10 +16,10 @@ content_blocks:
       Nuestros tratamientos de última generación permiten alinear tus dientes en
       tiempo récord, sin brackets, sin costos por control y con flexibilidades
       de pago
-    image: /images/hero/hero-image-2.png
+    image: /uploads/6740a2b255a0734bcd5682f3-imagen1-20241122.webp
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: ¡Agenda tu cita!
       link: /signup/
   - _bookshop_name: global/counter
     title: Scale your
